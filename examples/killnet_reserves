@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>WE ARE KILLNET – Telegram</title>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+
+    <meta property="og:title" content="WE ARE KILLNET">
+    <meta property="og:image"
+        content="https://cdn4.telegram-cdn.org/file/l7K0odJSl419ntpUBqcY0MJC1_UIVzwqIlGmnVK_1SiRLZgyKc_lVQinanPUWqWiedGCQ3Zd5pRMeBT2R4rzonPUAhSpR6aawMK7VT0trRouCKByPJM508QoU_gbk4j2rWvZpET9WlwNx8EvGpimexhDNeYP4ThQKKck8kQmeig05cmsOlQviu4HCJy8XjPryJcSAkcnNbL2tSQ9v92_QsIqKC6g8eAgKlMLtgx4MQytTemlwo0t28q7GukQDHFW5p-H7Ex9q0Jue6C-UA_Da64XbfZUZ19wXTvGCA79cfnPiGTzPRnmQfuGXniyq6vNZ4RCZg9kzV5nsaSmozOqbQ.jpg">
+    <meta property="og:site_name" content="Telegram">
+    <meta property="og:description" content="🧐Забанили? - пиши сюда @Snake_51 
+
+⚡️Принимаем донаты:
+https://t.me/killnet_reservs/2027
+
+✪ По всем вопросам @killnet_support 
+✪ СБ @alpham65
+✪ Резервный @killnet_mirror
+✪ Легион @Legion_Russia
+⚡https://t.me/killnet_info">
+
+    <meta property="twitter:title" content="WE ARE KILLNET">
+    <meta property="twitter:image"
+        content="https://cdn4.telegram-cdn.org/file/l7K0odJSl419ntpUBqcY0MJC1_UIVzwqIlGmnVK_1SiRLZgyKc_lVQinanPUWqWiedGCQ3Zd5pRMeBT2R4rzonPUAhSpR6aawMK7VT0trRouCKByPJM508QoU_gbk4j2rWvZpET9WlwNx8EvGpimexhDNeYP4ThQKKck8kQmeig05cmsOlQviu4HCJy8XjPryJcSAkcnNbL2tSQ9v92_QsIqKC6g8eAgKlMLtgx4MQytTemlwo0t28q7GukQDHFW5p-H7Ex9q0Jue6C-UA_Da64XbfZUZ19wXTvGCA79cfnPiGTzPRnmQfuGXniyq6vNZ4RCZg9kzV5nsaSmozOqbQ.jpg">
+    <meta property="twitter:site" content="@Telegram">
+
+    <meta property="al:ios:app_store_id" content="686449807">
+    <meta property="al:ios:app_name" content="Telegram Messenger">
+    <meta property="al:ios:url" content="tg://resolve?domain=killnet_reservs&amp;post=1">
+
+    <meta property="al:android:url" content="tg://resolve?domain=killnet_reservs&amp;post=1">
+    <meta property="al:android:app_name" content="Telegram">
+    <meta property="al:android:package" content="org.telegram.messenger">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Telegram">
+    <meta name="twitter:description" content="🧐Забанили? - пиши сюда @Snake_51 
+
+⚡️Принимаем донаты:
+https://t.me/killnet_reservs/2027
+
+✪ По всем вопросам @killnet_support 
+✪ СБ @alpham65
+✪ Резервный @killnet_mirror
+✪ Легион @Legion_Russia
+⚡https://t.me/killnet_info
+">
+
+    <link rel="next" href="/s/killnet_reservs?after=15">
+    <link rel="canonical" href="/s/killnet_reservs?before=16">
+
+    <script>window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement && document.documentElement.classList && document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+    <link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+    <link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?60" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?32" rel="stylesheet" media="screen">
+    <script>TBaseUrl = '/';</script>
+</head>
+
+<body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+        <canvas id="tgme_background" class="tgme_background" width="50" height="50"
+            data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+        <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+        <div class="tgme_container">
+            <div class="tgme_header_search">
+                <form class="tgme_header_search_form" action="/s/killnet_reservs">
+                    <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20">
+                        <g fill="none" stroke="#7D7F81" stroke-width="1.4">
+                            <circle cx="9" cy="9" r="6"></circle>
+                            <path d="M13.5,13.5 L17,17" stroke-linecap="round"></path>
+                        </g>
+                    </svg>
+                    <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q"
+                        autocomplete="off" value="" />
+                    <a href="/s/killnet_reservs" class="tgme_header_search_form_clear"><svg
+                            class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
+                            width="20" height="20">
+                            <g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                stroke="#000000" stroke-width="1.5">
+                                <path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657" />
+                                <path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943"
+                                    stroke-dashoffset="5.842" />
+                                <path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332"
+                                    stroke-dashoffset="6.647756" />
+                                <path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243" />
+                                <path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59" />
+                                <path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843"
+                                    stroke-dashoffset="10.392" />
+                                <path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896"
+                                    stroke-dashoffset="10.866" />
+                                <path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353"
+                                    stroke-dashoffset="11.137" />
+                                <path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08"
+                                    stroke-dashoffset="11.274" />
+                                <path d="M186 14l8-8m0 8l-8-8" />
+                            </g>
+                        </svg></a>
+                </form>
+            </div>
+            <div class="tgme_header_right_column">
+                <section class="tgme_right_column">
+                    <div class="tgme_channel_info">
+                        <div class="tgme_channel_info_header">
+                            <i class="tgme_page_photo_image bgcolor5" data-content="WK"><img
+                                    src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i>
+                            <div class="tgme_channel_info_header_title_wrap">
+                                <div class="tgme_channel_info_header_title"><span dir="auto">WE ARE KILLNET</span></div>
+                                <div class="tgme_channel_info_header_labels"></div>
+                            </div>
+                            <div class="tgme_channel_info_header_username"><a
+                                    href="https://t.me/killnet_reservs">@killnet_reservs</a></div>
+                        </div>
+                        <div class="tgme_channel_info_counters">
+                            <div class="tgme_channel_info_counter"><span class="counter_value">88.8K</span> <span
+                                    class="counter_type">subscribers</span></div>
+                            <div class="tgme_channel_info_counter"><span class="counter_value">864</span> <span
+                                    class="counter_type">photos</span></div>
+                            <div class="tgme_channel_info_counter"><span class="counter_value">357</span> <span
+                                    class="counter_type">videos</span></div>
+                            <div class="tgme_channel_info_counter"><span class="counter_value">18</span> <span
+                                    class="counter_type">files</span></div>
+                            <div class="tgme_channel_info_counter"><span class="counter_value">603</span> <span
+                                    class="counter_type">links</span></div>
+                        </div>
+                        <div class="tgme_channel_info_description"><i class="emoji"
+                                style="background-image:url('//telegram.org/img/emoji/40/F09FA790.png')"><b>🧐</b></i>Забанили?
+                            - пиши сюда <a href="https://t.me/Snake_51" target="_blank">@Snake_51</a> <br /><br /><i
+                                class="emoji"
+                                style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Принимаем
+                            донаты:<br /><a href="https://t.me/killnet_reservs/2027" target="_blank"
+                                rel="noopener">https://t.me/killnet_reservs/2027</a><br /><br />✪ По всем вопросам <a
+                                href="https://t.me/killnet_support" target="_blank">@killnet_support</a> <br />✪ СБ <a
+                                href="https://t.me/alpham65" target="_blank">@alpham65</a><br />✪ Резервный <a
+                                href="https://t.me/killnet_mirror" target="_blank">@killnet_mirror</a><br />✪ Легион <a
+                                href="https://t.me/Legion_Russia" target="_blank">@Legion_Russia</a><br /><i
+                                class="emoji"
+                                style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i><a
+                                href="https://t.me/killnet_info" target="_blank"
+                                rel="noopener">https://t.me/killnet_info</a></div>
+                        <a class="tgme_channel_download_telegram"
+                            href="//telegram.org/dl?tme=9c32e3a9897c4c7908_14088164304676297762">
+                            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px"
+                                viewBox="0 0 21 18">
+                                <g fill="none">
+                                    <path fill="#ffffff"
+                                        d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z">
+                                    </path>
+                                </g>
+                            </svg>Download Telegram
+                        </a>
+                        <div class="tgme_footer">
+                            <div class="tgme_footer_column">
+                                <h5><a href="//telegram.org/faq">About</a></h5>
+                            </div>
+                            <div class="tgme_footer_column">
+                                <h5><a href="//telegram.org/blog">Blog</a></h5>
+                            </div>
+                            <div class="tgme_footer_column">
+                                <h5><a href="//telegram.org/apps">Apps</a></h5>
+                            </div>
+                            <div class="tgme_footer_column">
+                                <h5><a href="//core.telegram.org/">Platform</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="tgme_header_info">
+                <a class="tgme_channel_join_telegram"
+                    href="//telegram.org/dl?tme=9c32e3a9897c4c7908_14088164304676297762">
+                    <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16">
+                        <g fill="none">
+                            <path fill="#ffffff"
+                                d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z">
+                            </path>
+                        </g>
+                    </svg>Join
+                </a>
+                <a class="tgme_header_link" href="https://t.me/killnet_reservs">
+                    <i class="tgme_page_photo_image bgcolor5" data-content="WK"><img
+                            src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i>
+                    <div class="tgme_header_title_wrap">
+                        <div class="tgme_header_title"><span dir="auto">WE ARE KILLNET</span></div>
+                        <div class="tgme_header_labels"></div>
+                    </div>
+                    <div class="tgme_header_counter">88.8K subscribers</div>
+                </a>
+            </div>
+        </div>
+    </header>
+    <main class="tgme_main" data-url="/killnet_reservs">
+        <div class="tgme_container">
+            <section class="tgme_channel_history js-message_history">
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message service_message js-widget_message" data-post="killnet_reservs/1"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6MSwidCI6MTY1Njg2OTQ2MCwiaCI6ImI3NTIxMDAyMDdiMTZmN2EwYiJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Channel created</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date"
+                                            href="https://t.me/killnet_reservs/1"><time
+                                                datetime="2022-02-26T21:14:23+00:00"
+                                                class="time">23:14</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/4"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6NCwidCI6MTY1Njg2OTQ2MCwiaCI6IjA3ZDE0MTVlNjZiMDJjNGQwNiJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Хакерская группировка
+                                Анонимус решила хайпануть перед миром на фоне конфликта с нашими братьями из <i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87A6.png')"><b>🇺🇦</b></i>Украины&#33;<br /><br />-
+                                Выдвигая свои тупые твиты о взломах и ddos на сервера РФ<br />- Поддержку для Нациков
+                                Зеленского и тд. <br /><br />Аноны нам показали что они являются истиными шлюхами
+                                спецслужб USA<i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F989E.png')"><b>😞</b></i>
+                            </div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">7.2K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta"><a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/4"><time
+                                                datetime="2022-02-26T21:29:46+00:00"
+                                                class="time">23:29</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/5"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6NSwidCI6MTY1Njg2OTQ2MCwiaCI6IjUzZDQwMzFjN2EwMzQ4MmI2OSJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5249016924606674915 1222131989_456243171"
+                                href="https://t.me/killnet_reservs/5"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/jrFVlBbxMMzPZgfQSo3Qz7w5KMBZQO2U9ejwLCm5setcM5o-OfeQC7-nLk70CUWYbaFDVDq94zLS53jeUqGIOSpLATcRvGsjcoCYMYVp3M40AejAN_bRQ4v5FwmbTqmYCqEDkRvw29TBTwfZ1d8oiBaEN9RCGYrBeA3EzSQDDZtnpQIxnk3ywmfzgWw7Sb-n7-Eibnbu4UZBlkLQt1DXI5hD5BD6Soq4F1mepXDSZT9XpcNU1YaPMTCH2pYyw0DxOXPZLKZWG2bwuSZCnoUTAQ55vh60YwAD0s8WgqiVQNc7B2Bl2e70XgrcmtiFH9GpaciTwFo-8i-7vwlaGSSF2Q.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:68%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09FA4AE.png')"><b>🤮</b></i>Аноны
+                                ложат спать с помощью DDOS Российский обозреватель новостей &quot;RT&quot; и выёбываются
+                                этим на весь мир... <br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F98B5E2808DF09F92AB.png')"><b>😵‍💫</b></i>СМИ
+                                со всего мира подхватывают хайп новость и распространяют информацию через свои
+                                инфоциганские ресурсы по всему миру...<br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F98A7.png')"><b>😧</b></i>Люди
+                                читая эту новость - придают этому силу и начинают массово верить в неестественную силу
+                                Анонимусов в сети...</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">7.7K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/5"><time
+                                                datetime="2022-02-26T21:33:16+00:00"
+                                                class="time">23:33</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/6"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6NiwidCI6MTY1Njg2OTQ2MCwiaCI6IjBmMDVjZTM4NDc3NWE2NmQ0YSJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5249016924606674924 1222131989_456243180"
+                                href="https://t.me/killnet_reservs/6"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/quKQDbBuCJQq3A0h0EL5Ob_VtXLiDioAqRBT2ED4mIWa_sC2v2nTrpoxNBmmR6B631I_K-_IWGZR5Fb4L_6Io15DcZtMQhd16FSRDRlFK5xYMHLKQMVvMo7EwCLBsWJVsM7Hh-Hpo_gm2OU9o939vXwSdQHyG3dTQasnkvJ_RnetiMIDc-iq1avw1EfiQoZfsg5hXGiNdWhgung0oQylcULiMym4WA69VlSLvtHyl6cMwxN0jPibHD-ernzy-2L0Ihde4Oz38mzriwWvi8JlYRSdxGdGDI_cs3_8c-XLHUz6Yo6eurg-ZTyEcLg5P91p3UtKx7Cm9_o9_6g39X3HDw.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:51%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Мы
+                                Команда проекта KILLNET <a href="https://t.me/killnet_channel" target="_blank"
+                                    rel="noopener">https://t.me/killnet_channel</a> <br /><a
+                                    href="http://www.killnet.io/" target="_blank" rel="noopener">www.killnet.io</a>
+                                <br /><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>KILLNET
+                                разьёбывает мировых приступников ANONYMOUS и с позором отправляет спать их официальный
+                                сайт (<a href="https://www.anonymoushackers.net/" target="_blank"
+                                    rel="noopener">https://www.anonymoushackers.net/</a>) - сайт офлайн уже как 78
+                                часов.<br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Отчёт
+                                об атаки:<br /><a href="https://check-host.net/check-report/73b29bfkf3c" target="_blank"
+                                    rel="noopener">https://check-host.net/check-report/73b29bfkf3c</a><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i>НАША
+                                АТАКА БЫЛА ОТРАЖЕНА СПУСТЯ 10 СУТОК.</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">8.4K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/6"><time
+                                                datetime="2022-02-26T21:45:19+00:00"
+                                                class="time">23:45</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/7"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6NywidCI6MTY1Njg2OTQ2MCwiaCI6ImRlOWIwMGY2MmRkZTliZGMxYSJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Официальные государственные
+                                сайты Украины теперь не доступны<i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><a
+                                    href="https://president.gov.ua/ru" target="_blank"
+                                    rel="noopener">https://president.gov.ua/ru</a><br />и еще 25 других...
+                                <br /><br />Сис админы включили гео детект. Пусть будет так... <br />Отчет об атаках на
+                                GOV<br /><a href="https://check-host.net/check-report/741a2d9kffa" target="_blank"
+                                    rel="noopener">https://check-host.net/check-report/741a2d9kffa</a><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i>НАША
+                                АТАКА БЫЛА ОТРАЖЕНА СПУСТЯ 8 ЧАСОВ.</div>
+                            <a class="tgme_widget_message_link_preview" href="https://www.president.gov.ua/ru">
+                                <i class="link_preview_right_image"
+                                    style="background-image:url('https://cdn4.telegram-cdn.org/file/vwoQ0_Pv7eUwb1daCsPt69WSxYUNtipPIiThbgCr8C4AM2vsRy10giXp2CxRG9wcW0rqgz8s4woY3Vey1JhH90Bg2VMThEYBfY0BaQPZd0NxnfRyExHfaiX6hPPT6LaVoYbp03o65cyLvbEYmIw3YaAATzxHn__2u8PD-f5E9plMuai064YFZ7mkGNbF7bXEoyn1E-vZy0dSbQmhSIs3jjTdUM1UIS3Zv9tdsHzTAMpctDlKlP0-c4sbCuh6_HDTgmh9p9kf4-I384eb_YKUUvlg6JeuUiWlIz20SmkdWqDcXYTCcjeQZ8AmecuoSbMEPB3o_qehUiIxv1DbgasVwQ.jpg')"></i>
+                                <div class="link_preview_site_name accent_color" dir="auto">Официальное
+                                    интернет-представительство Президента Украины</div>
+
+
+                                <div class="link_preview_description" dir="auto">Веб-сайт Официального
+                                    интернет-представительства Президента Украины. Владимир Зеленский. Офис Президента.
+                                    Официальные новости. Видео. Указы. Распоряжения</div>
+                            </a>
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">8.7K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/7"><time
+                                                datetime="2022-02-26T22:16:20+00:00"
+                                                class="time">00:16</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/8"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6OCwidCI6MTY1Njg2OTQ2MCwiaCI6IjhhY2IzOGRjN2E0ZTE0MDQ0NSJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5249016924606674928 1222131989_456243184"
+                                href="https://t.me/killnet_reservs/8"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/oAS4erggJ4R9OoVToVtHpMAumDWlqDGExUErdsokAKhvCES7ZVa_K4WabhOfra1PY9ByBvzzAkX0zKYmRdwYsRnW4sdAC4RPM2RIoW769Jb14zvhDgLr8MH9e2dRU4HBE0-OGMN6N70WDragJpg7YQZ00JxD9A1A08gY9PZtoOzGOIErNFBHUOg8V7DrmSD-ZO4jomgAFhf4lcfPE819Pwcl5lOWNQpnK3UDH9F91Mc0KFk7ZDQWxbjzns4tenxxaHbAXG5mQ7kpotBt36oKUeEyxRU9qR504gvXaigdMjqWV_zrW4IQm7YoMHuSj-UkZ1veA4L_Lq_AZuLmWewOjw.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:49.125%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Польша закрыла небо для
+                                Российских самолётов и всячески искажает всю суть конфликта между долбаебами политиками
+                                из России и Украины. Тем самым сеет хаус и смуту среди своего населения. <br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i>Ответная
+                                мера на Главный сайт СМИ Польши POLANDHUB<br /><br />Отчёт:<br /><a
+                                    href="https://check-host.net/check-report/741b506kda8" target="_blank"
+                                    rel="noopener">https://check-host.net/check-report/741b506kda8</a><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i>НАША
+                                АТАКА БЫЛА ОТРАЖЕНА СПУСТЯ 6 ЧАСОВ.</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">9.0K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/8"><time
+                                                datetime="2022-02-26T22:47:41+00:00"
+                                                class="time">00:47</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/9"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6OSwidCI6MTY1Njg2OTQ2MCwiaCI6IjRjMTczYmU1MzA5ZjBlNzIxYiJ9">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5249016924606674932 1222131989_456243188"
+                                href="https://t.me/killnet_reservs/9"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/DsIZUl7puppdnxcnnz4rZy7GgbSdqe8L5fCgfQzJJj2huiajqEJbzpNPxvZnUJx23kJQHyIRsYAFe18N0ocOifcgwzT1hstLHwZw6qpZDEffjA0vN8OwY3Z5LjyK69MGTgHCVAkSvaOjf3hETleyNM7LSXRpoW3Kj1Yxa7R_2k3kHn1N-blZaz4x4ofnW88LKSSQaMZruMAf14F7cJcKKwfQvf7VZt-4GgR0z0Cm5Z59l076oYa_9_FcpaqUax9FJ-019iQYxh9ZOMw-cMkOxkMfTxLZ8wMSTjfFHfako7SLYdQq_I947odlmeFr2mztzEA3lqfRjdHRT4oRgT7BUA.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:73.125%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Анонимусы
+                                обещают вывести из строя все Apple устройства россиян&#33; Но пока что они не могут
+                                поднять свой же официальный сайт <i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F9894.png')"><b>😔</b></i><br />Давайте
+                                помолимся за этих долбаебов под маской<i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"><b>🙏</b></i>
+                            </div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">10.5K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta"><a
+                                            class="tgme_widget_message_date" href="https://t.me/killnet_reservs/9"><time
+                                                datetime="2022-02-26T23:10:34+00:00"
+                                                class="time">01:10</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/10"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6MTAsInQiOjE2NTY4Njk0NjAsImgiOiI1MmU0ODI3ODA1MGM4MjczOGUifQ">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Этот Канал создан хакерами
+                                единомышленниками из братских Славянских народов&#33; <br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>Мы
+                                не в каком формате не поддерживаем войну и братоубийство&#33; <br />Россия <i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')"><b>🖤</b></i>
+                                Украина это один народ, который находится под властью бизнесменов и марионеток
+                                Запада&#33;<br /><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i>Тут
+                                мы будем публиковать только ту информацию к которой имеем отношение&#33;<br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/C2A9.png')"><b>©</b></i> Мы
+                                берём на себя всю ответственность за атаки на иностранные СМИ и государственные
+                                сайты&#33;<br /><br />Следи за развитием событий, дальше жарко...</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">10.4K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date"
+                                            href="https://t.me/killnet_reservs/10"><time
+                                                datetime="2022-02-26T23:43:36+00:00"
+                                                class="time">01:43</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/12"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6MTIsInQiOjE2NTY4Njk0NjAsImgiOiJiMGIxMmM3YTAwYTFlM2MxNzEifQ">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5251355852126927538 1222676563_456243890"
+                                href="https://t.me/killnet_reservs/12"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/GeRbApPoG5P18GzDGK0eF8gAbIE3IQVTBcNOJLLkImxVDV5iJFziVy3wG9t81DC20tVgasA9OnQFGgJvlQY4-jGDaXxhFDnVZAkAeUmLU89VxXTlCWypoD_dgI1eRH_wC0vr0gFLq1LwEaChCVyTdh3WeTCJQTGnZcXJi-vM_MAZpMsKwghGHqfCJiKA_Szu_rLU2eqFyhgUB7cN50VAGxlZJN6d5Yp27hrl_kt_o_k2Ly9fA2WikLiZPLN2b5TcUVmEGWRSAVZjmIXVRMCkRmGBqvDm4-qbw2FWFXjVmJR3eUE8BhwVZ7ikQeiQYQfFtvfkCSK5xg8NS_9tLRhaNA.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:59.875%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto">Официальный сайт Правого
+                                сектора убит<i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Просим
+                                всех распространить эту информацию и помочь нам в реализации нашей общей цели -
+                                остановить Войну&#33; <br /><br />Отчёт об атаки:<br /><a
+                                    href="https://check-host.net/check-report/744b1e1k53a" target="_blank"
+                                    rel="noopener">https://check-host.net/check-report/744b1e1k53a</a><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i>НАША
+                                АТАКА БЫЛА ОТРАЖЕНА СПУСТЯ 23 ЧАСА.</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">10.7K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date"
+                                            href="https://t.me/killnet_reservs/12"><time
+                                                datetime="2022-02-27T14:18:47+00:00"
+                                                class="time">16:18</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/13"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6MTMsInQiOjE2NTY4Njk0NjAsImgiOiJkN2U5YjFiNGQxZGNiMmZkN2EifQ">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5251355852126927567 1222676563_456243919"
+                                href="https://t.me/killnet_reservs/13"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/fcPHNQC0sMT47NFCSYaxBFUDvtExBS1C0X9ysULOTce9KTRH2avoD6sCIVq7ZAU8yHnFGA5BAUOz3zZNxxtkYX0XCePTII4DnKtLyVwVSK7MpHoF7IrzkklVdO-9ArXCrqIoa5qQvbr3o0Wghqr7EnmGUqSQNLWfhK3sOleWlugY4IW2BGpMFsaQAcNWjCCICj9HnMW4bnpsnOMfm_aMmGUjOPAMXFPKU09K1ZKB2i_YI89w_i3YFWzppA-ndf5snl83v_CbcuNLD1Jr-tGKx6gbrS1eKEKSxRhI4GITuVOcHsIgEutwKWsVd_ARR52FxSwI43sydZQGUNRsZG-Aiw.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:64.25%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i>Призываем
+                                DDOS Сервисы к содействию&#33; <br /><br />Эти ресурсы несут смерть и нацистскую
+                                идеологию в массы. К Бою... <br /><br />L7 (HTTP FLOOD) <br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><a
+                                    href="http://www.bratstvo.info/" target="_blank"
+                                    rel="noopener">http://www.bratstvo.info/</a><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><a
+                                    href="http://pravyysektor.info/" target="_blank"
+                                    rel="noopener">http://pravyysektor.info/</a><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>
+                                <a href="http://naso.org.ua/" target="_blank"
+                                    rel="noopener">http://naso.org.ua/</a><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>
+                                <a href="https://unso.in.ua/" target="_blank"
+                                    rel="noopener">https://unso.in.ua/</a><br /><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><a
+                                    href="http://banderivets.org.ua/" target="_blank"
+                                    rel="noopener">http://banderivets.org.ua/</a></div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">10.2K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date"
+                                            href="https://t.me/killnet_reservs/13"><time
+                                                datetime="2022-02-27T15:32:44+00:00"
+                                                class="time">17:32</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_wrap js-widget_message_wrap">
+                    <div class="tgme_widget_message js-widget_message" data-post="killnet_reservs/15"
+                        data-view="eyJjIjotMTc2MDIwMjA1NywicCI6MTUsInQiOjE2NTY4Njk0NjAsImgiOiI5NTJmYTk3MjQyZTQ4NWJlYWMifQ">
+                        <div class="tgme_widget_message_user"><a href="https://t.me/killnet_reservs"><i
+                                    class="tgme_widget_message_user_photo bgcolor5" data-content="W"><img
+                                        src="https://cdn4.telegram-cdn.org/file/nJ3VewNPOaaqLs_SG89c0_ijvnsXBc5ovtiZz-yjiIdlI4fjoYLtXu_LKaG5alZHWVF5M4CzVhhzlT_i_jGzsWAHoTi55-y6YVBgS4Co-nJtvHvFTFf9YV7bmTknrsRxMuEAMBRtqfoP5duwmngu9fjH-ktVU_AYi1qgdIqK0MGCRIoDIJ-zcF5I1KYRyQHhf757pT0f_fGIqQX0nd6UhoKpp_W5Earz4jlcs3QtKiUB3QgPDYgO57ULGPv_WpBMUCcjwakAp9LuV6v08ipYT00n-6SCWBmLCBoa2OFC6jTM1pLW89YDZG2kprr_ElQa1phaDhIN0yAT5ncbqWStSw.jpg"></i></a>
+                        </div>
+                        <div class="tgme_widget_message_bubble">
+
+                            <i class="tgme_widget_message_bubble_tail">
+                                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                                    <g fill="none">
+                                        <path class="background" fill="#ffffff"
+                                            d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z">
+                                        </path>
+                                        <path class="border_1x" fill="#d7e3ec"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z">
+                                        </path>
+                                        <path class="border_2x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+                                        </path>
+                                        <path class="border_3x"
+                                            d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </i>
+                            <div class="tgme_widget_message_author accent_color"><a
+                                    class="tgme_widget_message_owner_name" href="https://t.me/killnet_reservs"><span
+                                        dir="auto">WE ARE KILLNET</span></a></div>
+
+
+                            <a class="tgme_widget_message_photo_wrap 5251355852126927628 1222676563_456243980"
+                                href="https://t.me/killnet_reservs/15"
+                                style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/FfrWwoGLyiyswvltnn0DkMP5Pg7li2N5nqjT4d6jxoUI8-pa2kXtUS2AuceazM9cQCIk9Q-TSLJKA3yEOIqOurXHU77x3yikIMEedmNoM95XwSMOBfsKQG90eIOAHyx31g8Ztx3WCAOJmRX1FiAX-J5AOOKPql-zvaKUwdm1ak4XyiMTN7njw2vwYCD63KpF4uhLPs3F7NeOT7ub6728jxtpNKWCJgHviiIY6rbltsJ-GID63Fuk-LKju23cgFy1bXeS6Wr8e3O1dUo515lHrMquVl7ES2BtspH_dIAiL8ysSYJOg_tjmeWkTGBCLJ-1iBTdovZyCdaC2n7vu2-uPg.jpg')">
+                                <div class="tgme_widget_message_photo" style="padding-top:66.75%"></div>
+                            </a>
+                            <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i><a
+                                    href="https://t.me/ta1ma7" target="_blank">@ta1ma7</a> присоединился к операции по
+                                уничтожению &quot;НЕО НАЦИСТОВ&quot; в сети&#33;<br /><br />Отчёт атаки:<br /><a
+                                    href="https://check-host.net/check-report/745211ak900" target="_blank"
+                                    rel="noopener">https://check-host.net/check-report/745211ak900</a><br /><br /><i
+                                    class="emoji"
+                                    style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i>АТАКА
+                                БЫЛА ОТРАЖЕНА СПУСТЯ 2 ЧАСА.</div>
+
+                            <div class="tgme_widget_message_footer compact js-message_footer">
+
+                                <div class="tgme_widget_message_info short js-message_info">
+                                    <span class="tgme_widget_message_views">10.3K</span><span class="copyonly">
+                                        views</span><span class="tgme_widget_message_meta">edited &nbsp;<a
+                                            class="tgme_widget_message_date"
+                                            href="https://t.me/killnet_reservs/15"><time
+                                                datetime="2022-02-27T16:55:37+00:00"
+                                                class="time">18:55</time></a></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/killnet_reservs?after=15"
+                        class="tme_messages_more js-messages_more" data-after="15"></a></div>
+            </section>
+        </div>
+    </main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+    <script src="//telegram.org/js/tgsticker.js?29"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?57"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init({ scrollToPost: 'killnet_reservs/1' });
+    </script>
+
+</body>
+
+</html>
+<!-- page generated in 110.4ms -->
